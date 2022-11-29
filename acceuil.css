@@ -1,0 +1,118 @@
+header {
+    background-color: rgba(215, 198, 216, 0.733);
+    padding-bottom: 3%;
+}
+
+nav{
+    padding:2%;
+   padding-bottom: 3%;
+}
+
+
+
+.head{
+    border-style: outset;
+    margin: 5%;
+    padding: 20px;
+     background-color: rgb(209, 200, 218);
+    color: rgb(0, 0, 0) ;
+    opacity: 100%;
+ 
+}
+
+body{
+    
+    background-image: url(imagefond.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    
+}
+
+h1 {
+    color: rgb(5, 5, 5);
+    text-align: center;
+    opacity: 100%;
+
+
+}
+h2{ 
+    color: rgb(95, 95, 95);
+    padding-bottom: 3%;
+
+}
+
+div {
+
+    background-color: rgb(255, 255, 255);
+    margin-left: 11%;
+    margin-right: 11%;
+   opacity: 89%;
+   text-align: center;
+    
+}
+
+.image {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+   color: rgb(70, 58, 82);
+   font-family: 'Times New Roman', Times, serif;
+
+}
+ 
+
+nav > a:hover{
+    font-style: bold;
+    transition: 0.4s;
+    font-size: 1.4em;
+    text-decoration: underline;
+
+    
+}
+
+article {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+   
+}
+.body { 
+    background-color: rgb(128, 103, 134);
+    color: black;
+    
+
+
+}
+
+main {
+    background-color: rgb(234, 211, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
+}
+
+ aside{
+    text-align: center;
+    
+}
+.book{
+    color: rgb(34, 27, 34);
+}
+p{
+    padding: 1%;
+}
+footer{
+    background-color: rgb(192, 191, 191);
+    background-attachment: fixed;
+    text-align: center;
+
+}
+.RS {
+    margin: 1%;
+    padding-left: 1%;
+    color: rgb(47, 30, 62);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

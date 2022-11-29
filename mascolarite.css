@@ -1,0 +1,28 @@
+html{
+    background-image: url(study.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+ }
+ 
+ div{
+     background-color: rgb(197, 197, 197);
+     opacity: 89%;
+     font-family: serif;
+     margin-left: 10%;
+     margin-right: 10%;
+     padding: 5%;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ h3{
+     text-align: center;
+ }
+ a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(169, 170, 170);
+    padding: 1%;
+ }
+
+.study {
+    margin-left: 10%;
+    
+}

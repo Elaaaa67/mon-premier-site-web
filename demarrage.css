@@ -1,0 +1,26 @@
+html { background-image: url(fond.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden ;
+}
+nav a{ 
+    
+    margin: 44%;
+    margin-top: 20%;
+    display:inline-block;
+    text-align: center;
+    background-color: rgba(166, 226, 250, 0.699);
+    padding: 1%;
+    border-style:ridge;
+    
+    
+
+
+}
+nav > a:hover{
+    font-style: bold;
+    transition: 0.4s;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+
