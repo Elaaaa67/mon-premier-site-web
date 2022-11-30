@@ -1,6 +1,6 @@
 header {
     background-color: rgba(215, 198, 216, 0.733);
-    padding-bottom: 3%;
+    padding-bottom: 2%;
 }
 
 nav{
@@ -101,9 +101,7 @@ main {
 .book{
     color: rgb(34, 27, 34);
 }
-p{
-    padding: 1%;
-}
+
 footer{
     background-color: rgb(192, 191, 191);
     background-attachment: fixed;
@@ -111,7 +109,7 @@ footer{
 
 }
 .RS {
-    margin: 1%;
+   
     padding-left: 1%;
     color: rgb(47, 30, 62);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
